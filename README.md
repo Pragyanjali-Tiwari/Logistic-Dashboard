@@ -1,4 +1,5 @@
 # Logistic-Dashboard
+This dashboard analyze delivery performance across cities, teams, and channels to optimize logistics efficiency.
 
 # Logistics Delivery Analysis Dashboard – Power BI Project
 
